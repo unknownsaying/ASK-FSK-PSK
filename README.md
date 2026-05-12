@@ -1,2 +1,2 @@
 # ASK-FSK-PSK
-Amplitude Frequency Phase Shift Press
+Amplitude Frequency Phase Shift Key
